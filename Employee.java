@@ -5,6 +5,6 @@ public class Employee {
     static String company = "JPMC";
 
     public static void main(String[] args) {
-        System.out.println("Name: " + name + " age: " + age + " city: " + city);
+        System.out.println("Name: " + name + " age: " + age + " city: " + city+" company: " + company);
     }
 }
